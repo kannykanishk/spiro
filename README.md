@@ -5,9 +5,9 @@ _Developing an IoT-Enabled Digital Spirometer Prototype using Additive Manufactu
 
 **Images:** includes the CAD image, app screenshot, and final images of the prototype.
 
-**Demo Video:** includes a working demonstration (video) of the device.
-
 **Android App:** includes the APK file, that can be installed on an Android smartphone.
+
+**Demo Video:** https://youtube.com/shorts/-8_Q1YmyHFY
 
 
 
